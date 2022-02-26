@@ -13,19 +13,18 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
 Users should be able to:
 
--
+- Randomly fetching advice quotes from Advice Slip.
+- Displaying advice and advice number to frontend.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Advice-Generator-App-screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -33,14 +32,14 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://chris-base.github.io/advice-generator-app/)
 
 ## My process
+
+Starting with templete HTML, CSS, and JavaScript files. Creating the layout with an HTML skeleton, and adding styles to the HTML to customize page. Using javascript and using fetch to call API from Advice Slip.
 
 ### Built with
 
@@ -72,9 +71,7 @@ const proudOfThisFunc = () => {
 };
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Chris Base](https://github.com/chris-base)
+- Frontend Mentor - [@chris-base](https://www.frontendmentor.io/profile/chris-base)
