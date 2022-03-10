@@ -45,25 +45,7 @@ Starting with templete HTML, CSS, and JavaScript files. Creating the layout with
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
+I brushed up on making HTTP requests usnig Javascript. I also learned about cache and how that can affect the performance of the website and how the website makes HTTP requests.
 
 ## Author
 
